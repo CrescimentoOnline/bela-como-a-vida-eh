@@ -9,11 +9,15 @@ Another Puzzle Game planned to be developed and played with PlayCanvas Engine an
    - 3.1 Learning PlayCanvas engine
 
 
-:relaxed:
+:heartpulse:
 
 <img src="Phase2Modeling.png" alt="My cool starter pic"/>
 
-<img src="Cueio-Animado.png" alt="My cool starter pic"/>
+**Trazendo amiguinhos** Cueio :rabbit: Novo amiguinho da bela
+
+<img src="Cueio-Animado.png" alt="My Cueio Animado"/>
+
+[Cueio - Gato Galático](https://www.youtube.com/watch?v=mFnyrFwLyIQ&list=PLQamLLzUTEJys6afnAR656xq0_cCKndpL)
 
 
 ## Special Tanks
